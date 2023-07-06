@@ -1,0 +1,17 @@
+.border-custom{
+border: solid 1px #cccaca;
+padding: 30px 30PX;
+border-radius: 50px; 
+margin: 20px 0;
+}
+
+.custom-text-center{
+    text-align: center;
+}
+
+.custom-key-color{
+   color: #7a7a7a;
+}
+.black{
+   color: #232323;;
+}
